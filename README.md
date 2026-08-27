@@ -8,7 +8,7 @@ Week 01 · Setup & Hello World
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
 
-**Your demo:** google.com
+**Your demo:** yahoo.com
 
 
 ## Requirements
